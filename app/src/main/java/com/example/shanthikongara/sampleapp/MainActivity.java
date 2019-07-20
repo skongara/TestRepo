@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
 
 
     private void setName() {
-        mNameTextView.setText("This is a git demo!");
+        mNameTextView.setText("This is a git demo App!");
     }
 
     @Override
